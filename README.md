@@ -30,24 +30,26 @@ Para rodar este projeto localmente, siga os seguintes passos:
    ```
 2. **Navegue até o diretório do projeto:**
 
-   ```bash cd front-wpp```
+   ```bash
+   cd front-wpp
+   ```
    
-3. **Instale as dependências:**
+4. **Instale as dependências:**
 
-   ```bash npm install```
+   ```bash
+   npm install
+   ```
    
-5. **Configure o ambiente:**
+6. **Configure o ambiente:**
 
 Renomeie o arquivo .env.example para .env e configure suas variáveis de ambiente de acordo com suas necessidades.
 
 6. **Inicie o servidor de desenvolvimento:**
 
-```bash npm run serve```
+```bash 
+npm run serve
+```
 
 Isso iniciará o servidor de desenvolvimento e você poderá acessar a aplicação em http://localhost:8080.
 
-**Licença**
-Este projeto está licenciado sob a MIT License.
 
-Contato
-Para mais informações ou dúvidas, entre em contato com Breno.
