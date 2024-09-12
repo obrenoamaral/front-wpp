@@ -46,9 +46,9 @@ Renomeie o arquivo .env.example para .env e configure suas variáveis de ambient
 
 6. **Inicie o servidor de desenvolvimento:**
 
-```bash 
-npm run serve
-```
+   ```bash 
+   npm run dev
+   ```
 
 Isso iniciará o servidor de desenvolvimento e você poderá acessar a aplicação em http://localhost:8080.
 
