@@ -1,29 +1,63 @@
-# front-wpp
+# Front-WPP
 
-This template should help get you started developing with Vue 3 in Vite.
+## Descrição
 
-## Recommended IDE Setup
+**Front-WPP** é uma aplicação front-end que simula a interface do WhatsApp Web, projetada para consumir a API do WhatsApp. Este projeto tem como objetivo fornecer uma experiência de usuário semelhante ao WhatsApp Web, permitindo a interação com a API do WhatsApp de maneira intuitiva e eficiente.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Recursos
 
-## Customize configuration
+- **Interface Similar ao WhatsApp Web**: Recria a aparência e funcionalidade do WhatsApp Web, oferecendo uma experiência familiar para os usuários.
+- **Integração com API do WhatsApp**: Consome a API do WhatsApp para enviar e receber mensagens, permitindo comunicação em tempo real.
+- **Visualização de Mensagens**: Permite a visualização das mensagens enquanto são digitadas, proporcionando feedback instantâneo.
+- **Envio de Mensagens e Arquivos**: Suporta o envio de mensagens de texto e arquivos, como imagens e documentos.
+- **Design Responsivo**: Interface adaptável para diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Tecnologias Utilizadas
 
-## Project Setup
+- **Vue.js**: Framework JavaScript para construção de interfaces interativas.
+- **Laravel**: Framework PHP para a criação da API backend e gerenciamento de dados.
+- **CSS**: Estilização da interface com foco em um design semelhante ao WhatsApp Web.
+- **Axios**: Biblioteca para realizar requisições HTTP para a API do WhatsApp.
 
-```sh
+## Instalação
+
+Para rodar este projeto localmente, siga os seguintes passos:
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/obrenoamaral/front-wpp.git
+Navegue até o diretório do projeto:
+
+bash
+Copiar código
+cd front-wpp
+Instale as dependências:
+
+bash
+Copiar código
 npm install
-```
+Configure o ambiente:
 
-### Compile and Hot-Reload for Development
+Renomeie o arquivo .env.example para .env e configure suas variáveis de ambiente de acordo com suas necessidades.
 
-```sh
-npm run dev
-```
+Inicie o servidor de desenvolvimento:
 
-### Compile and Minify for Production
+bash
+Copiar código
+npm run serve
+Isso iniciará o servidor de desenvolvimento e você poderá acessar a aplicação em http://localhost:8080.
 
-```sh
-npm run build
-```
+Contribuições
+Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga os seguintes passos:
+
+Fork o repositório.
+Crie uma branch para sua feature (git checkout -b feature/nome-da-feature).
+Faça commit das suas alterações (git commit -am 'Adiciona nova feature').
+Faça push para a branch (git push origin feature/nome-da-feature).
+Abra um Pull Request.
+Licença
+Este projeto está licenciado sob a MIT License.
+
+Contato
+Para mais informações ou dúvidas, entre em contato com Seu Nome.
