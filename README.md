@@ -27,16 +27,16 @@ Para rodar este projeto localmente, siga os seguintes passos:
 
    ```bash
    git clone https://github.com/obrenoamaral/front-wpp.git
-Navegue até o diretório do projeto:
+2. **Navegue até o diretório do projeto:**
 
-bash
-Copiar código
+   ```bash
 cd front-wpp
+   ```
 Instale as dependências:
 
-bash
-Copiar código
+   ```bash
 npm install
+   ```
 Configure o ambiente:
 
 Renomeie o arquivo .env.example para .env e configure suas variáveis de ambiente de acordo com suas necessidades.
@@ -60,4 +60,4 @@ Licença
 Este projeto está licenciado sob a MIT License.
 
 Contato
-Para mais informações ou dúvidas, entre em contato com Seu Nome.
+Para mais informações ou dúvidas, entre em contato com Breno.
