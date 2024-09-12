@@ -50,7 +50,7 @@ Renomeie o arquivo .env.example para .env e configure suas variáveis de ambient
    npm run dev
    ```
 
-Isso iniciará o servidor de desenvolvimento e você poderá acessar a aplicação em http://localhost:8080.](http://localhost:5173/.
+Isso iniciará o servidor de desenvolvimento e você poderá acessar a aplicação em http://localhost:5173/.
 )
 
 
