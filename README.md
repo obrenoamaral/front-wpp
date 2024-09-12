@@ -27,36 +27,26 @@ Para rodar este projeto localmente, siga os seguintes passos:
 
    ```bash
    git clone https://github.com/obrenoamaral/front-wpp.git
+   ```
 2. **Navegue até o diretório do projeto:**
 
-   ```bash
-cd front-wpp
-   ```
-Instale as dependências:
+   ```bash cd front-wpp```
+   
+3. **Instale as dependências:**
 
-   ```bash
-npm install
-   ```
-Configure o ambiente:
+   ```bash npm install```
+   
+5. **Configure o ambiente:**
 
 Renomeie o arquivo .env.example para .env e configure suas variáveis de ambiente de acordo com suas necessidades.
 
-Inicie o servidor de desenvolvimento:
+6. **Inicie o servidor de desenvolvimento:**
 
-bash
-Copiar código
-npm run serve
+```bash npm run serve```
+
 Isso iniciará o servidor de desenvolvimento e você poderá acessar a aplicação em http://localhost:8080.
 
-Contribuições
-Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga os seguintes passos:
-
-Fork o repositório.
-Crie uma branch para sua feature (git checkout -b feature/nome-da-feature).
-Faça commit das suas alterações (git commit -am 'Adiciona nova feature').
-Faça push para a branch (git push origin feature/nome-da-feature).
-Abra um Pull Request.
-Licença
+**Licença**
 Este projeto está licenciado sob a MIT License.
 
 Contato
